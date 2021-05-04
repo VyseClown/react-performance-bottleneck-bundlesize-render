@@ -1,4 +1,3 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
 ## React performance: identificando gargalos, reduzindo o bundlesize, e melhorando o render
 
